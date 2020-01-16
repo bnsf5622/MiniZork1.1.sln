@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniZork1.1.sln", "MiniZork1.1.sln.csproj", "{44AB2803-E904-4E15-97E1-0374EEB1D7AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44AB2803-E904-4E15-97E1-0374EEB1D7AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AB2803-E904-4E15-97E1-0374EEB1D7AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AB2803-E904-4E15-97E1-0374EEB1D7AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AB2803-E904-4E15-97E1-0374EEB1D7AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F8AEB9D-BACD-4CC2-B0C0-EDBB8DADECED}
+	EndGlobalSection
+EndGlobal
